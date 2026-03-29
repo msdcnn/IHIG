@@ -1,5 +1,5 @@
 # IHIG
-Regarding the semantic part of image intention, the images need to be processed according to the intention prompt template in the paper. For the original image data, you can refer to the following link.
+Regarding the semantic part of image intention, the images need to be processed according to the intention prompt template in the paper and LLaVA. For the original image data, you can refer to the following link.
 [1](https://drive.google.com/file/d/1mK0Nf-jv_h2bgHUCRM4_EsdTiiitZ_Uj/view?usp=sharing_eil&ts=5d480e04)
 [2](https://drive.google.com/file/d/1AOWzlOz5hmdO39dEmzhQ4z_nabgzi7Tu/view?usp=sharing_eil&ts=5d480e04)
 [3](https://drive.google.com/file/d/1dJERrVlp7DlNSXk-uvbbG6Rv7uvqTOKd/view?usp=sharing_eil&ts=5d480e04)
